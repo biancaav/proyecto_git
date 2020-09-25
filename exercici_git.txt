@@ -1,3 +1,4 @@
 
 Exercici Git. Crear repositori i treballar amb branques.
 
+- Modificació .text desde branch1.
