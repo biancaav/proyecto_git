@@ -1,3 +1,4 @@
 
 Exercici Git
 
+- Modificació .text desde branch1.
